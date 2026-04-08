@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/vectorstore/*
+data/processed/*
+!data/vectorstore/.gitkeep
+!data/processed/.gitkeep
+wa-chatbot-master/
+whatsapp-chatgpt-bot-master/
